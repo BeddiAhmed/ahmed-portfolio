@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "articles": "Articles",
+    "projects": "Projets",
+    "about": "À propos"
+  },
+  "home": {
+    "hero": {
+      "name": "Ahmed Ould",
+      "role": "Économiste & Analyste de données",
+      "bio": "Recherches sur les marchés de l'énergie, les dynamiques commerciales et le développement économique en Afrique de l'Ouest et au Moyen-Orient.",
+      "readArticles": "Lire les analyses",
+      "viewProjects": "Explorer les données"
+    },
+    "stats": {
+      "articles": "Articles",
+      "projects": "Projets data",
+      "languages": "Langues"
+    },
+    "latestArticles": "Dernières analyses",
+    "featuredProjects": "Projets data",
+    "viewAllArticles": "Tous les articles →",
+    "viewAllProjects": "Tous les projets →"
+  },
+  "articles": {
+    "title": "Articles",
+    "subtitle": "Économie, énergie et développement en Afrique de l'Ouest et au Moyen-Orient",
+    "readMore": "Lire l'article",
+    "minRead": "min de lecture",
+    "publishedOn": "Publié le",
+    "otherLanguages": "Disponible aussi en",
+    "noArticles": "Aucun article pour l'instant."
+  },
+  "projects": {
+    "title": "Projets data",
+    "subtitle": "Tableaux de bord interactifs, outils de recherche et analyses quantitatives",
+    "viewProject": "Voir le tableau de bord",
+    "viewCode": "Code source",
+    "live": "En ligne",
+    "inProgress": "En cours",
+    "archived": "Archivé",
+    "liveProjects": "En ligne",
+    "inProgressProjects": "En cours",
+    "archivedProjects": "Archivés"
+  },
+  "about": {
+    "title": "À propos",
+    "subtitle": "Économiste. Analyste. Auteur.",
+    "bio1": "J'étudie l'intersection de l'économie des ressources, du développement institutionnel et de la géopolitique en Afrique de l'Ouest et dans le monde arabe.",
+    "bio2": "Mon travail combine l'analyse de données quantitatives avec la recherche de politiques publiques, produisant des analyses à la fois rigoureuses et accessibles.",
+    "bio3": "J'écris en anglais, en français et en arabe — reflétant le paysage linguistique des régions que je couvre.",
+    "skills": "Compétences & outils",
+    "contact": "Me contacter",
+    "email": "E-mail",
+    "download": "Télécharger le CV"
+  },
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "description": "Économiste & Analyste de données"
+  },
+  "categories": {
+    "economics": "Économie",
+    "energy": "Énergie",
+    "trade": "Commerce",
+    "development": "Développement",
+    "politics": "Politique",
+    "general": "Analyse"
+  }
+}

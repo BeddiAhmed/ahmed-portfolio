@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "home": "Home",
+    "articles": "Articles",
+    "projects": "Projects",
+    "about": "About"
+  },
+  "home": {
+    "hero": {
+      "name": "Ahmed Ould",
+      "role": "Economist & Data Analyst",
+      "bio": "Researching energy markets, trade dynamics, and economic development across West Africa and the Middle East. Making complex data readable.",
+      "readArticles": "Read Analysis",
+      "viewProjects": "Explore Data"
+    },
+    "stats": {
+      "articles": "Articles",
+      "projects": "Data Projects",
+      "languages": "Languages"
+    },
+    "latestArticles": "Latest Analysis",
+    "featuredProjects": "Data Projects",
+    "viewAllArticles": "View all articles →",
+    "viewAllProjects": "View all projects →"
+  },
+  "articles": {
+    "title": "Articles",
+    "subtitle": "Economics, energy, and development in West Africa and the Middle East",
+    "readMore": "Read article",
+    "minRead": "min read",
+    "publishedOn": "Published",
+    "otherLanguages": "Also available in",
+    "noArticles": "No articles yet. Check back soon."
+  },
+  "projects": {
+    "title": "Data Projects",
+    "subtitle": "Interactive dashboards, research tools, and quantitative analyses",
+    "viewProject": "View Dashboard",
+    "viewCode": "Source",
+    "live": "Live",
+    "inProgress": "In Progress",
+    "archived": "Archived",
+    "liveProjects": "Live",
+    "inProgressProjects": "In Progress",
+    "archivedProjects": "Archived"
+  },
+  "about": {
+    "title": "About",
+    "subtitle": "Economist. Analyst. Writer.",
+    "bio1": "I study the intersection of resource economics, institutional development, and geopolitics in West Africa and the broader Arab world.",
+    "bio2": "My work combines quantitative data analysis with policy research, producing analysis that is both rigorous and accessible to policymakers, journalists, and the public.",
+    "bio3": "I write in English, French, and Arabic — reflecting the linguistic landscape of the regions I cover.",
+    "skills": "Skills & Tools",
+    "contact": "Get in Touch",
+    "email": "Email",
+    "download": "Download CV"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "description": "Economist & Data Analyst"
+  },
+  "categories": {
+    "economics": "Economics",
+    "energy": "Energy",
+    "trade": "Trade",
+    "development": "Development",
+    "politics": "Politics",
+    "general": "Analysis"
+  }
+}

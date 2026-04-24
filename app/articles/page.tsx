@@ -1,11 +1,11 @@
-import Link from "next/link";
-import { getArticles } from "@/lib/articles";
+import Link from 'next/link'
+import { getArticles } from '@/lib/articles'
 
 export default function ArticlesPage() {
-  const articles = getArticles();
+  const articles = getArticles('en')
 
   return (
-    <main>
+    <main style={{ maxWidth: 800, margin: '0 auto', padding: '2rem 1.5rem' }}>
       <h1>Articles</h1>
       <ul>
         {articles.map((article) => (
@@ -15,5 +15,5 @@ export default function ArticlesPage() {
         ))}
       </ul>
     </main>
-  );
+  )
 }

@@ -38,7 +38,7 @@ export default function Footer({ locale, t, nav }: Props) {
               marginBottom: '0.2rem',
             }}
           >
-            Ahmed Ould
+            Ahmed Beddi
           </p>
           <p style={{ fontSize: '0.8rem', color: 'var(--fg-3)' }}>
             {t.description}
@@ -68,7 +68,7 @@ export default function Footer({ locale, t, nav }: Props) {
         </nav>
 
         <p style={{ fontSize: '0.78rem', color: 'var(--fg-3)' }}>
-          © {new Date().getFullYear()} Ahmed Ould. {t.rights}
+          © {new Date().getFullYear()} Ahmed Beddi. {t.rights}
         </p>
       </div>
     </footer>

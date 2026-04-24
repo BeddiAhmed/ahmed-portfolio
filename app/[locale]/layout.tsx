@@ -20,8 +20,8 @@ export async function generateMetadata({
   const t = getMessages(locale as Locale)
   return {
     title: {
-      default: `Ahmed Ould — ${t.home.hero.role}`,
-      template: `%s | Ahmed Ould`,
+      default: `Ahmed Beddi — ${t.home.hero.role}`,
+      template: `%s | Ahmed Beddi`,
     },
     description: t.home.hero.bio,
   }

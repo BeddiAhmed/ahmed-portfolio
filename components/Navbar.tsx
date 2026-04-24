@@ -65,7 +65,7 @@ export default function Navbar({ locale, t }: Props) {
             flexShrink: 0,
           }}
         >
-          Ahmed Ould
+          Ahmed Beddi
         </Link>
 
         {/* Desktop nav */}

@@ -61,7 +61,7 @@ export default async function ArticlePage({
           {/* Breadcrumb */}
           <nav style={{ marginBottom: '2rem', fontSize: '0.82rem', color: 'var(--fg-3)' }}>
             <Link href={`/${loc}`} style={{ color: 'var(--fg-3)', textDecoration: 'none' }}>
-              Ahmed Ould
+              Ahmed Beddi
             </Link>
             {' / '}
             <Link href={`/${loc}/articles`} style={{ color: 'var(--fg-3)', textDecoration: 'none' }}>

@@ -22,7 +22,7 @@ const arabic = Noto_Sans_Arabic({
 })
 
 export const metadata: Metadata = {
-  title: 'Ahmed Ould — Economist & Data Analyst',
+  title: 'Ahmed Beddi — Economist & Data Enthusiast',
   description:
     'Analysis on energy markets, trade dynamics, and economic development in West Africa and the Middle East.',
 }

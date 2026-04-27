@@ -29,7 +29,8 @@ const timeline = [
   { year: '2024–', role: 'Independent Researcher & Analyst', org: 'West Africa / Remote' },
   { year: '2022', role: 'M.Sc. Economics', org: 'University — Development Economics' },
   { year: '2020', role: 'Research Assistant', org: 'Economic Policy Institute' },
-  { year: '2019', role: 'B.A. Economics', org: 'University' },
+  { year: '2014', role: 'B.A. Economics - Islamic Finance', org: 'International Islamic University Malaysia' },
+  { year: '2014', role: 'B.A. Economics - Islamic Finance', org: 'International Islamic University Malaysia' },
 ]
 
 export default async function AboutPage({
@@ -212,7 +213,7 @@ export default async function AboutPage({
               {t.about.contact}
             </h3>
             <a
-              href="mailto:hello@ahmedould.com"
+              href="mailto:admin@ciroprep.com"
               style={{
                 display: 'block',
                 fontSize: '0.875rem',
@@ -221,7 +222,7 @@ export default async function AboutPage({
                 marginBottom: '0.75rem',
               }}
             >
-              hello@ahmedould.com
+              admin@ciroprep.com
             </a>
             <a
               href="#"
